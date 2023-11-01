@@ -1,0 +1,1 @@
+# smarttab.nvim
